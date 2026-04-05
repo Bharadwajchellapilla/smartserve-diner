@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { UtensilsCrossed, ChefHat, Monitor, LayoutDashboard, QrCode } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+
 
 const modules = [
   { to: '/menu?table=3', label: 'Customer Menu', desc: 'Scan QR & order food', icon: QrCode, color: 'bg-primary' },

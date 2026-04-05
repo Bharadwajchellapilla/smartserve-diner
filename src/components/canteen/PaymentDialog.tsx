@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { QrCode, Banknote, CheckCircle2 } from 'lucide-react';
-import { useCanteenStore, Order } from '@/store/canteenStore';
+import { useCanteenStore } from '@/store/canteenStore';
 import { Button } from '@/components/ui/button';
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog';
 

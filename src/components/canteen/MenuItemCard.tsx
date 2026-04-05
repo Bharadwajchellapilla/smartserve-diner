@@ -8,7 +8,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 const customizationOptions = ['Less Sugar', 'Extra Hot', 'Extra Spicy'];
 
 export function MenuItemCard({ item }: { item: MenuItem }) {
-  const { addToCart, cart, updateQuantity, removeFromCart } = useCanteenStore();
+  const { addToCart, cart, updateQuantity } = useCanteenStore();
   const [showCustom, setShowCustom] = useState(false);
   const [selected, setSelected] = useState<string[]>([]);
 
