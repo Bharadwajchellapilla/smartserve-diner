@@ -20,7 +20,7 @@ export default function Index() {
           </div>
         </div>
         <h1 className="text-3xl sm:text-4xl font-black tracking-tight mb-2 animate-fade-in">SmartServr Canteen</h1>
-        <p className="text-xl sm:text-2xl font-bold tracking-wide animate-fade-in bg-warning/90 text-foreground inline-block px-5 py-2 rounded-full mt-2" style={{ animationDelay: '100ms' }}>
+        <p className="text-xl sm:text-2xl font-bold tracking-wide animate-fade-in bg-accent text-accent-foreground inline-block px-5 py-2 rounded-full mt-2" style={{ animationDelay: '100ms' }}>
           Dr. B.R. Ambedkar University
         </p>
       </div>
