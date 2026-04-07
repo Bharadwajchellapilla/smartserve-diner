@@ -19,7 +19,7 @@ export default function Index() {
             <UtensilsCrossed className="h-8 w-8" />
           </div>
         </div>
-        <h1 className="text-3xl sm:text-4xl font-black tracking-tight mb-2 animate-fade-in">SmartServr Canteen</h1>
+        <h1 className="text-3xl sm:text-4xl font-black tracking-tight mb-2 animate-fade-in">SmartServe Canteen</h1>
         <p className="text-xl sm:text-2xl font-bold tracking-wide animate-fade-in bg-accent text-accent-foreground inline-block px-5 py-2 rounded-full mt-2" style={{ animationDelay: '100ms' }}>
           Dr. B.R. Ambedkar University
         </p>
@@ -46,7 +46,7 @@ export default function Index() {
       </main>
 
       <footer className="text-center py-4 text-xs text-muted-foreground">
-        College Project • SmartServr v1.0
+        College Project • SmartServe v1.0
       </footer>
     </div>
   );
