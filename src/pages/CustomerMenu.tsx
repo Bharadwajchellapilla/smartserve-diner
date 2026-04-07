@@ -35,7 +35,7 @@ export default function CustomerMenu() {
       <header className="sticky top-0 z-30 bg-primary text-primary-foreground shadow-lg">
         <div className="container flex items-center justify-between py-3">
           <div>
-            <h1 className="text-lg font-bold leading-tight">SmartServr Canteen</h1>
+            <h1 className="text-lg font-bold leading-tight">SmartServe Canteen</h1>
             <p className="text-xs opacity-80">Dr. B.R. Ambedkar University</p>
           </div>
           <div className="flex items-center gap-3">
